@@ -1,4 +1,4 @@
-<h4>Use MyStack Class to check whether given string is balanced paranthesis or not </h4>
+Use MyStack Class to check whether given string is balanced paranthesis or not.
 
 
 
