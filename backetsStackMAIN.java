@@ -1,9 +1,3 @@
-Use MyStack Class to check whether given string is balanced paranthesis or not.
-
-
-
-package charStack;
-
 import java.util.Scanner;
 
 public class backetsStackMAIN {
